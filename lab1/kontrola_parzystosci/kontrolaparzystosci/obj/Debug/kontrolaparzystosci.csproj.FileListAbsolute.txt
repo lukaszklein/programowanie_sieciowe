@@ -1,0 +1,9 @@
+D:\LABORATORIUM\RiderProjects\ŁukaszKlein\lab1\kontrola_parzystosci\kontrolaparzystosci\bin\Debug\kontrolaparzystosci.exe.manifest
+D:\LABORATORIUM\RiderProjects\ŁukaszKlein\lab1\kontrola_parzystosci\kontrolaparzystosci\bin\Debug\kontrolaparzystosci.application
+D:\LABORATORIUM\RiderProjects\ŁukaszKlein\lab1\kontrola_parzystosci\kontrolaparzystosci\bin\Debug\kontrolaparzystosci.exe
+D:\LABORATORIUM\RiderProjects\ŁukaszKlein\lab1\kontrola_parzystosci\kontrolaparzystosci\bin\Debug\kontrolaparzystosci.pdb
+D:\LABORATORIUM\RiderProjects\ŁukaszKlein\lab1\kontrola_parzystosci\kontrolaparzystosci\obj\Debug\kontrolaparzystosci.csprojResolveAssemblyReference.cache
+D:\LABORATORIUM\RiderProjects\ŁukaszKlein\lab1\kontrola_parzystosci\kontrolaparzystosci\obj\Debug\kontrolaparzystosci.exe.manifest
+D:\LABORATORIUM\RiderProjects\ŁukaszKlein\lab1\kontrola_parzystosci\kontrolaparzystosci\obj\Debug\kontrolaparzystosci.application
+D:\LABORATORIUM\RiderProjects\ŁukaszKlein\lab1\kontrola_parzystosci\kontrolaparzystosci\obj\Debug\kontrolaparzystosci.exe
+D:\LABORATORIUM\RiderProjects\ŁukaszKlein\lab1\kontrola_parzystosci\kontrolaparzystosci\obj\Debug\kontrolaparzystosci.pdb
