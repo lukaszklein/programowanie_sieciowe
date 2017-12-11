@@ -1,0 +1,7 @@
+C:\Users\Łukasz\Desktop\CRCv2\CRC\bin\Debug\CRC.exe.config
+C:\Users\Łukasz\Desktop\CRCv2\CRC\bin\Debug\CRC.exe
+C:\Users\Łukasz\Desktop\CRCv2\CRC\bin\Debug\CRC.pdb
+C:\Users\Łukasz\Desktop\CRCv2\CRC\obj\Debug\CRC.csprojResolveAssemblyReference.cache
+C:\Users\Łukasz\Desktop\CRCv2\CRC\obj\Debug\CRC.csproj.CoreCompileInputs.cache
+C:\Users\Łukasz\Desktop\CRCv2\CRC\obj\Debug\CRC.exe
+C:\Users\Łukasz\Desktop\CRCv2\CRC\obj\Debug\CRC.pdb
