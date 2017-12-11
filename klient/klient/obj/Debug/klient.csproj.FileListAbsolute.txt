@@ -1,0 +1,10 @@
+c:\users\łukasz\source\repos\klient\klient\bin\Debug\klient.exe.config
+c:\users\łukasz\source\repos\klient\klient\bin\Debug\klient.exe
+c:\users\łukasz\source\repos\klient\klient\bin\Debug\klient.pdb
+c:\users\łukasz\source\repos\klient\klient\obj\Debug\klient.csprojResolveAssemblyReference.cache
+c:\users\łukasz\source\repos\klient\klient\obj\Debug\klient.Form1.resources
+c:\users\łukasz\source\repos\klient\klient\obj\Debug\klient.Properties.Resources.resources
+c:\users\łukasz\source\repos\klient\klient\obj\Debug\klient.csproj.GenerateResource.Cache
+c:\users\łukasz\source\repos\klient\klient\obj\Debug\klient.csproj.CoreCompileInputs.cache
+c:\users\łukasz\source\repos\klient\klient\obj\Debug\klient.exe
+c:\users\łukasz\source\repos\klient\klient\obj\Debug\klient.pdb
