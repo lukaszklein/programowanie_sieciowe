@@ -1,0 +1,10 @@
+c:\users\łukasz\source\repos\serwer\serwer\bin\Debug\serwer.exe.config
+c:\users\łukasz\source\repos\serwer\serwer\bin\Debug\serwer.exe
+c:\users\łukasz\source\repos\serwer\serwer\bin\Debug\serwer.pdb
+c:\users\łukasz\source\repos\serwer\serwer\obj\Debug\serwer.csprojResolveAssemblyReference.cache
+c:\users\łukasz\source\repos\serwer\serwer\obj\Debug\serwer.Form1.resources
+c:\users\łukasz\source\repos\serwer\serwer\obj\Debug\serwer.Properties.Resources.resources
+c:\users\łukasz\source\repos\serwer\serwer\obj\Debug\serwer.csproj.GenerateResource.Cache
+c:\users\łukasz\source\repos\serwer\serwer\obj\Debug\serwer.csproj.CoreCompileInputs.cache
+c:\users\łukasz\source\repos\serwer\serwer\obj\Debug\serwer.exe
+c:\users\łukasz\source\repos\serwer\serwer\obj\Debug\serwer.pdb
