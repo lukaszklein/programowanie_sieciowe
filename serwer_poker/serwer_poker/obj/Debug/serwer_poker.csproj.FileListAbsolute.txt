@@ -1,0 +1,7 @@
+C:\Users\Łukasz\source\repos\serwer_poker\serwer_poker\bin\Debug\serwer_poker.exe.config
+C:\Users\Łukasz\source\repos\serwer_poker\serwer_poker\bin\Debug\serwer_poker.exe
+C:\Users\Łukasz\source\repos\serwer_poker\serwer_poker\bin\Debug\serwer_poker.pdb
+C:\Users\Łukasz\source\repos\serwer_poker\serwer_poker\obj\Debug\serwer_poker.csprojResolveAssemblyReference.cache
+C:\Users\Łukasz\source\repos\serwer_poker\serwer_poker\obj\Debug\serwer_poker.csproj.CoreCompileInputs.cache
+C:\Users\Łukasz\source\repos\serwer_poker\serwer_poker\obj\Debug\serwer_poker.exe
+C:\Users\Łukasz\source\repos\serwer_poker\serwer_poker\obj\Debug\serwer_poker.pdb
