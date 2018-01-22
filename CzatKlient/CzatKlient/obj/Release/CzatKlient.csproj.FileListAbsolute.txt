@@ -1,0 +1,13 @@
+C:\Users\Dariusz\source\repos\CzatKlient\CzatKlient\bin\Release\CzatKlient.exe.config
+C:\Users\Dariusz\source\repos\CzatKlient\CzatKlient\bin\Release\CzatKlient.exe
+C:\Users\Dariusz\source\repos\CzatKlient\CzatKlient\bin\Release\CzatKlient.pdb
+C:\Users\Dariusz\source\repos\CzatKlient\CzatKlient\obj\Release\MainWindow.baml
+C:\Users\Dariusz\source\repos\CzatKlient\CzatKlient\obj\Release\MainWindow.g.cs
+C:\Users\Dariusz\source\repos\CzatKlient\CzatKlient\obj\Release\App.g.cs
+C:\Users\Dariusz\source\repos\CzatKlient\CzatKlient\obj\Release\CzatKlient_MarkupCompile.cache
+C:\Users\Dariusz\source\repos\CzatKlient\CzatKlient\obj\Release\CzatKlient.g.resources
+C:\Users\Dariusz\source\repos\CzatKlient\CzatKlient\obj\Release\CzatKlient.Properties.Resources.resources
+C:\Users\Dariusz\source\repos\CzatKlient\CzatKlient\obj\Release\CzatKlient.csproj.GenerateResource.Cache
+C:\Users\Dariusz\source\repos\CzatKlient\CzatKlient\obj\Release\CzatKlient.csproj.CoreCompileInputs.cache
+C:\Users\Dariusz\source\repos\CzatKlient\CzatKlient\obj\Release\CzatKlient.exe
+C:\Users\Dariusz\source\repos\CzatKlient\CzatKlient\obj\Release\CzatKlient.pdb

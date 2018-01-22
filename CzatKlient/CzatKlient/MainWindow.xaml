@@ -1,0 +1,20 @@
+﻿<Window x:Class="CzatKlient.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="360" Width="640">
+    <Grid Background="Gray">
+        <TextBox x:Name="ChatBox" Height="183" Margin="0,37,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" IsEnabled="False"/>
+        <Label x:Name="IP_number" Content="Numer IP serwera: " HorizontalAlignment="Left" Margin="0,6,0,0" VerticalAlignment="Top" Width="154"/>
+        <TextBox x:Name="IP" HorizontalAlignment="Left" Height="23" Margin="111,8,0,0" TextWrapping="Wrap" Text="127.0.0.1" VerticalAlignment="Top" Width="101" />
+        <Label x:Name="port1" Content="Port serwera: " HorizontalAlignment="Left" Margin="217,6,0,0" VerticalAlignment="Top" Width="78"/>
+        <TextBox x:Name="port_nb" HorizontalAlignment="Left" Height="23" Margin="300,8,0,0" TextWrapping="Wrap" Text="8000" VerticalAlignment="Top" Width="90" />
+        <TextBox x:Name="Message" Height="50" Margin="0,250,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" IsEnabled="True"/>
+        <Label x:Name="Message_lebel" Content="Wiadomość: " HorizontalAlignment="Left" Margin="0,220,0,0" VerticalAlignment="Top" Width="75"/>
+        <Button x:Name="Message_button" Content="Wyślij" HorizontalAlignment="Left" Margin="557,305,0,0" VerticalAlignment="Top" Width="75" Height="25" Click="Message_button_Click"/>
+        <Button x:Name="Start" Content="Start czatu" HorizontalAlignment="Left" Margin="410,6,0,0" VerticalAlignment="Top" Width="100" Height="25" BorderBrush="Lime" Click="Start_Click"/>
+        <Button x:Name="Stop" Content="Stop czatu" HorizontalAlignment="Left" Margin="532,6,0,0" VerticalAlignment="Top" Width="100" Height="25" BorderBrush="Red" Foreground="Black" Background="Red" Click="Stop_Click"/>
+    </Grid>
+</Window>

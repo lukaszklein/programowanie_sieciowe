@@ -1,0 +1,14 @@
+C:\Users\Dariusz\source\repos\CzatSerwer\CzatSerwer\bin\Debug\CzatSerwer.exe.config
+C:\Users\Dariusz\source\repos\CzatSerwer\CzatSerwer\bin\Debug\CzatSerwer.exe
+C:\Users\Dariusz\source\repos\CzatSerwer\CzatSerwer\bin\Debug\CzatSerwer.pdb
+C:\Users\Dariusz\source\repos\CzatSerwer\CzatSerwer\obj\Debug\MainWindow.g.cs
+C:\Users\Dariusz\source\repos\CzatSerwer\CzatSerwer\obj\Debug\App.g.cs
+C:\Users\Dariusz\source\repos\CzatSerwer\CzatSerwer\obj\Debug\CzatSerwer_MarkupCompile.cache
+C:\Users\Dariusz\source\repos\CzatSerwer\CzatSerwer\obj\Debug\CzatSerwer_MarkupCompile.lref
+C:\Users\Dariusz\source\repos\CzatSerwer\CzatSerwer\obj\Debug\MainWindow.baml
+C:\Users\Dariusz\source\repos\CzatSerwer\CzatSerwer\obj\Debug\CzatSerwer.g.resources
+C:\Users\Dariusz\source\repos\CzatSerwer\CzatSerwer\obj\Debug\CzatSerwer.Properties.Resources.resources
+C:\Users\Dariusz\source\repos\CzatSerwer\CzatSerwer\obj\Debug\CzatSerwer.csproj.GenerateResource.Cache
+C:\Users\Dariusz\source\repos\CzatSerwer\CzatSerwer\obj\Debug\CzatSerwer.csproj.CoreCompileInputs.cache
+C:\Users\Dariusz\source\repos\CzatSerwer\CzatSerwer\obj\Debug\CzatSerwer.exe
+C:\Users\Dariusz\source\repos\CzatSerwer\CzatSerwer\obj\Debug\CzatSerwer.pdb

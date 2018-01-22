@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CzatSerwer", "CzatSerwer\CzatSerwer.csproj", "{18588E6C-1B22-41EF-8B82-879D277898BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18588E6C-1B22-41EF-8B82-879D277898BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18588E6C-1B22-41EF-8B82-879D277898BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18588E6C-1B22-41EF-8B82-879D277898BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18588E6C-1B22-41EF-8B82-879D277898BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3068EBF8-4C93-48E5-AE93-244EB5744BE2}
+	EndGlobalSection
+EndGlobal
